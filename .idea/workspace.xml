@@ -1,0 +1,1331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f3abd0e4-ab21-41e4-81fc-bbcc38f18720" name="Default" comment="Initial commit">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/UCCA-SNACS.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/.Python" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/bin/activate" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/bin/activate.csh" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/bin/activate.fish" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/bin/activate_this.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/bin/easy_install" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/bin/easy_install-2.7" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/bin/pip" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/bin/pip2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/bin/pip2.7" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/bin/python" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/bin/python-config" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/bin/python2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/bin/python2.7" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/bin/wheel" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/include/python2.7" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/UserDict.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/_abcoll.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/_weakrefset.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/abc.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/codecs.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/config" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/copy_reg.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/distutils/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/distutils/distutils.cfg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/encodings" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/fnmatch.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/genericpath.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/lib-dynload" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/linecache.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/locale.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/no-global-site-packages.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/ntpath.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/orig-prefix.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/os.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/posixpath.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/re.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/easy_install.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip-18.0.dist-info/INSTALLER" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip-18.0.dist-info/LICENSE.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip-18.0.dist-info/METADATA" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip-18.0.dist-info/RECORD" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip-18.0.dist-info/WHEEL" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip-18.0.dist-info/entry_points.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip-18.0.dist-info/top_level.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/__main__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/basecommand.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/baseparser.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/build_env.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/cache.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/cmdoptions.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/commands/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/commands/check.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/commands/completion.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/commands/configuration.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/commands/download.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/commands/freeze.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/commands/hash.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/commands/help.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/commands/install.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/commands/list.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/commands/search.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/commands/show.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/commands/uninstall.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/commands/wheel.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/compat.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/configuration.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/download.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/exceptions.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/index.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/locations.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/models/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/models/index.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/operations/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/operations/check.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/operations/freeze.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/operations/prepare.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/pep425tags.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/req/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/req/req_file.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/req/req_install.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/req/req_set.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/req/req_tracker.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/req/req_uninstall.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/resolve.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/status_codes.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/utils/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/utils/appdirs.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/utils/deprecation.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/utils/encoding.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/utils/filesystem.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/utils/glibc.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/utils/hashes.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/utils/logging.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/utils/misc.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/utils/outdated.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/utils/packaging.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/utils/setuptools_build.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/utils/temp_dir.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/utils/typing.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/utils/ui.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/vcs/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/vcs/bazaar.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/vcs/git.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/vcs/mercurial.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/vcs/subversion.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_internal/wheel.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/appdirs.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/cachecontrol/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/cachecontrol/_cmd.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/cachecontrol/adapter.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/cachecontrol/cache.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/cachecontrol/caches/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/cachecontrol/caches/file_cache.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/cachecontrol/caches/redis_cache.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/cachecontrol/compat.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/cachecontrol/controller.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/cachecontrol/filewrapper.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/cachecontrol/heuristics.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/cachecontrol/serialize.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/cachecontrol/wrapper.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/certifi/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/certifi/__main__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/certifi/cacert.pem" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/certifi/core.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/big5freq.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/big5prober.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/chardistribution.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/charsetgroupprober.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/charsetprober.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/cli/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/cli/chardetect.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/codingstatemachine.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/compat.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/cp949prober.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/enums.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/escprober.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/escsm.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/eucjpprober.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/euckrfreq.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/euckrprober.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/euctwfreq.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/euctwprober.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/gb2312freq.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/gb2312prober.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/hebrewprober.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/jisfreq.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/jpcntx.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/langbulgarianmodel.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/langcyrillicmodel.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/langgreekmodel.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/langhebrewmodel.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/langhungarianmodel.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/langthaimodel.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/langturkishmodel.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/latin1prober.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/mbcharsetprober.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/mbcsgroupprober.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/mbcssm.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/sbcharsetprober.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/sbcsgroupprober.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/sjisprober.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/universaldetector.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/utf8prober.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/chardet/version.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/colorama/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/colorama/ansi.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/colorama/ansitowin32.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/colorama/initialise.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/colorama/win32.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/colorama/winterm.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/_backport/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/_backport/misc.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/_backport/shutil.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/_backport/sysconfig.cfg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/_backport/sysconfig.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/_backport/tarfile.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/compat.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/database.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/index.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/locators.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/manifest.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/markers.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/metadata.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/resources.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/scripts.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/t32.exe" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/t64.exe" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/util.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/version.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/w32.exe" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/w64.exe" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distlib/wheel.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/distro.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/_ihatexml.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/_inputstream.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/_tokenizer.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/_trie/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/_trie/_base.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/_trie/datrie.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/_trie/py.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/_utils.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/constants.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/filters/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/filters/alphabeticalattributes.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/filters/base.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/filters/inject_meta_charset.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/filters/lint.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/filters/optionaltags.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/filters/sanitizer.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/filters/whitespace.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/html5parser.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/serializer.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treeadapters/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treeadapters/genshi.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treeadapters/sax.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/base.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/dom.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/etree.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treebuilders/etree_lxml.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treewalkers/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treewalkers/base.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treewalkers/dom.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treewalkers/etree.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treewalkers/etree_lxml.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/treewalkers/genshi.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/idna/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/idna/codec.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/idna/compat.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/idna/core.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/idna/idnadata.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/idna/intranges.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/idna/package_data.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/idna/uts46data.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/ipaddress.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/lockfile/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/lockfile/linklockfile.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/lockfile/mkdirlockfile.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/lockfile/pidlockfile.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/lockfile/sqlitelockfile.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/lockfile/symlinklockfile.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/msgpack/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/msgpack/_version.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/msgpack/exceptions.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/msgpack/fallback.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/packaging/__about__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/packaging/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/packaging/_compat.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/packaging/_structures.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/packaging/markers.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/packaging/requirements.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/packaging/specifiers.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/packaging/utils.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/packaging/version.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/pkg_resources/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/pkg_resources/py31compat.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/progress/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/progress/bar.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/progress/counter.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/progress/helpers.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/progress/spinner.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/pyparsing.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/pytoml/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/pytoml/core.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/pytoml/parser.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/pytoml/writer.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/__version__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/_internal_utils.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/adapters.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/api.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/auth.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/certs.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/compat.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/cookies.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/exceptions.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/help.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/hooks.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/models.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/packages.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/sessions.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/status_codes.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/structures.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/requests/utils.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/retrying.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/six.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/_collections.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/connection.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/connectionpool.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/contrib/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/contrib/_securetransport/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/contrib/_securetransport/bindings.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/contrib/_securetransport/low_level.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/contrib/appengine.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/contrib/ntlmpool.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/contrib/pyopenssl.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/contrib/securetransport.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/contrib/socks.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/exceptions.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/fields.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/filepost.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/packages/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/packages/backports/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/packages/backports/makefile.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/packages/ordered_dict.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/packages/six.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/packages/ssl_match_hostname/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/packages/ssl_match_hostname/_implementation.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/poolmanager.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/request.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/response.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/util/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/util/connection.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/util/queue.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/util/request.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/util/response.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/util/retry.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/util/ssl_.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/util/timeout.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/util/url.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/urllib3/util/wait.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/webencodings/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/webencodings/labels.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/webencodings/mklabels.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/webencodings/tests.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pip/_vendor/webencodings/x_user_defined.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pkg_resources/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pkg_resources/_vendor/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pkg_resources/_vendor/appdirs.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pkg_resources/_vendor/packaging/__about__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pkg_resources/_vendor/packaging/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pkg_resources/_vendor/packaging/_compat.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pkg_resources/_vendor/packaging/_structures.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pkg_resources/_vendor/packaging/markers.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pkg_resources/_vendor/packaging/requirements.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pkg_resources/_vendor/packaging/specifiers.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pkg_resources/_vendor/packaging/utils.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pkg_resources/_vendor/packaging/version.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pkg_resources/_vendor/pyparsing.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pkg_resources/_vendor/six.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pkg_resources/extern/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/pkg_resources/py31compat.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools-40.2.0.dist-info/INSTALLER" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools-40.2.0.dist-info/LICENSE.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools-40.2.0.dist-info/METADATA" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools-40.2.0.dist-info/RECORD" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools-40.2.0.dist-info/WHEEL" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools-40.2.0.dist-info/dependency_links.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools-40.2.0.dist-info/entry_points.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools-40.2.0.dist-info/top_level.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools-40.2.0.dist-info/zip-safe" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/_vendor/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/_vendor/packaging/__about__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/_vendor/packaging/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/_vendor/packaging/_compat.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/_vendor/packaging/_structures.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/_vendor/packaging/markers.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/_vendor/packaging/requirements.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/_vendor/packaging/specifiers.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/_vendor/packaging/utils.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/_vendor/packaging/version.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/_vendor/pyparsing.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/_vendor/six.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/archive_util.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/build_meta.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/cli-32.exe" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/cli-64.exe" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/cli.exe" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/alias.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/bdist_egg.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/bdist_rpm.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/bdist_wininst.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/build_clib.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/build_ext.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/build_py.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/develop.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/dist_info.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/easy_install.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/egg_info.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/install.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/install_egg_info.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/install_lib.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/install_scripts.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/launcher manifest.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/py36compat.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/register.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/rotate.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/saveopts.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/sdist.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/setopt.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/test.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/upload.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/command/upload_docs.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/config.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/dep_util.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/depends.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/dist.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/extension.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/extern/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/glibc.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/glob.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/gui-32.exe" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/gui-64.exe" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/gui.exe" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/launch.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/lib2to3_ex.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/monkey.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/msvc.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/namespaces.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/package_index.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/pep425tags.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/py27compat.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/py31compat.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/py33compat.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/py36compat.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/sandbox.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/script (dev).tmpl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/script.tmpl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/site-patch.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/ssl_support.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/unicode_utils.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/version.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/wheel.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/setuptools/windows_support.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel-0.31.1.dist-info/INSTALLER" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel-0.31.1.dist-info/LICENSE.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel-0.31.1.dist-info/METADATA" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel-0.31.1.dist-info/RECORD" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel-0.31.1.dist-info/WHEEL" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel-0.31.1.dist-info/entry_points.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel-0.31.1.dist-info/top_level.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/__main__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/archive.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/bdist_wheel.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/egg2wheel.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/install.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/metadata.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/paths.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/pep425tags.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/pkginfo.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/signatures/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/signatures/djbec.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/signatures/ed25519py.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/signatures/keys.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/tool/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/util.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site-packages/wheel/wininst2wheel.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/site.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/sre.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/sre_compile.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/sre_constants.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/sre_parse.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/stat.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/types.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/lib/python2.7/warnings.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/venv/pip-selfcheck.json" />
+    </list>
+    <ignored path="ucca_participant.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/ucca_participant$extract_passages.coverage" NAME="extract_passages Coverage Results" MODIFIED="1489775923574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ucca_participant$extract_all_entities.coverage" NAME="extract_all_entities Coverage Results" MODIFIED="1508142900806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ucca_participant$watch_all_entities.coverage" NAME="watch_all_entities Coverage Results" MODIFIED="1508070192298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ucca_participant$participants_html_parser.coverage" NAME="participants_html_parser Coverage Results" MODIFIED="1501661686219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ucca_participant$Unittests_in_ucca_participant.coverage" NAME="Unittests in ucca_participant Coverage Results" MODIFIED="1509012435922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ucca_participant$text_to_xml.coverage" NAME="text_to_xml Coverage Results" MODIFIED="1536222049121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ucca_participant$streusle_reader.coverage" NAME="streusle_reader Coverage Results" MODIFIED="1508839699481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ucca_participant$participant_parser.coverage" NAME="participant_parser Coverage Results" MODIFIED="1501411032077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1108173702">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="annotated_data" value="2094" />
+          <entry key="py" value="1981" />
+          <entry key="xml" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="2094" />
+          <entry key="Python" value="1981" />
+          <entry key="XML" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="xml" value="25" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="XML" value="25" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ucca_participant" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
+      <file leaf-file-name="watch_all_entities.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/watch_all_entities.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1935">
+              <caret line="129" column="4" lean-forward="false" selection-start-line="129" selection-start-column="4" selection-end-line="129" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="collect_statistics.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/collect_statistics.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3435">
+              <caret line="232" column="46" lean-forward="false" selection-start-line="232" selection-start-column="46" selection-end-line="232" selection-end-column="46" />
+              <folding>
+                <element signature="e#0#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="text_to_xml.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/text_to_xml.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="28" column="39" lean-forward="false" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
+              <folding>
+                <element signature="e#0#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="annotated_data.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/data/UCCA_SNACS_wiki_sample/annotated_data.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="46179" column="42" lean-forward="true" selection-start-line="46179" selection-start-column="42" selection-end-line="46179" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>paragraph #1: television actors evidently showed</find>
+      <find>paragraph #2: writers ' royalties whi</find>
+      <find>vary</find>
+      <find>opposite</find>
+      <find>paragraph #1: production by its depiction of an</find>
+      <find>1.328</find>
+      <find>1.26</find>
+      <find>1.25</find>
+      <find>paragraph #1: Edward Scissorhands</find>
+      <find>paragraph #3: Sleepy Hollow 1999</find>
+      <find>paragraph #3: Sleepy Hollow</find>
+      <find>paragraph #1: to nearly every</find>
+      <find>paragraph #2: between 50 and 55 percent</find>
+      <find>1.783</find>
+      <find>budahist</find>
+      <find>buddh</find>
+      <find>paragraph #2: I cannot be what I am</find>
+      <find>paragraph #3: Leigh</find>
+      <find>paragraph #3: In March 1988 , Jackson purchased</find>
+      <find>paragraph #3: album</find>
+      <find>paragraph #1: dog also wearing glasses</find>
+      <find>he remains there</find>
+      <find>paragraph #2: as producer</find>
+      <find>he collected</find>
+      <find>a group featuring Butthole</find>
+      <find>paragraph #1: her</find>
+      <find>paragraph #3: Sorkin</find>
+      <find>paragraph #2: of the Motion</find>
+      <find>paragraph #4: He along with his sister</find>
+      <find>paragraph #1: were put up</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/UCCA_annotated_passages_xmls_new</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="WARN_ABOUT_CRLF" value="false" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ucca_parser.py" />
+        <option value="$PROJECT_DIR$/ucca_passage504.xml" />
+        <option value="$PROJECT_DIR$/extract_passages.py" />
+        <option value="$PROJECT_DIR$/participant_parser.py" />
+        <option value="$PROJECT_DIR$/ucca_passage215.xml" />
+        <option value="$PROJECT_DIR$/פשראןבןפשמאד.html" />
+        <option value="$PROJECT_DIR$/participants_page_prepwiki.html" />
+        <option value="$PROJECT_DIR$/פשראןבןפשמאד_יאצך_פשרדקר.py" />
+        <option value="$PROJECT_DIR$/participants_html_parser.py" />
+        <option value="$PROJECT_DIR$/UCCA_annotated_passages_xmls/extract_all_entities.py" />
+        <option value="$PROJECT_DIR$/extract_all_entities.py" />
+        <option value="$PROJECT_DIR$/streusle_reader.py" />
+        <option value="$PROJECT_DIR$/UCCA_annotated_passages_xmls_new/ucca_passage141.xml" />
+        <option value="$PROJECT_DIR$/annotated_data" />
+        <option value="$PROJECT_DIR$/watch_all_entities.py" />
+        <option value="$PROJECT_DIR$/extract_state_theme.py" />
+        <option value="$PROJECT_DIR$/text_to_xml.py" />
+        <option value="$PROJECT_DIR$/collect_statistics.py" />
+        <option value="$PROJECT_DIR$/data/UCCA_SNACS_wiki_sample_v1/annotated_data.txt" />
+        <option value="$PROJECT_DIR$/collect_statistics.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="201" />
+    <option name="y" value="145" />
+    <option name="width" value="1773" />
+    <option name="height" value="797" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="UCCA-SNACS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UCCA-SNACS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UCCA-SNACS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UCCA-SNACS" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data" />
+      <recent name="$PROJECT_DIR$/data/UCCA_SNACS_wiki_sample_v1" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="C:\Users\t-adisha\PycharmProjects\ucca_participant" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/UCCA_SNACS_wiki_sample" />
+      <recent name="$PROJECT_DIR$/data/UCCA_wiki_sample" />
+      <recent name="$PROJECT_DIR$/data/UCCA_wiki" />
+      <recent name="$PROJECT_DIR$/data" />
+      <recent name="C:\Users\t-adisha\PycharmProjects\ucca_participant" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.collect_statistics">
+    <configuration name="collect_statistics" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/untitled/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ucca_participant" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/collect_statistics.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="extract_state_theme" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/untitled/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ucca_participant" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/extract_state_theme.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="streusle_reader" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ucca_participant" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/streusle_reader.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="text_to_xml" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ucca_participant" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/text_to_xml.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="watch_all_entities" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/untitled/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ucca_participant" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/watch_all_entities.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ucca_participant" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ucca_participant" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ucca_participant" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ucca_participant" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Twisted Trial">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ucca_participant" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ucca_participant" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ucca_participant" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.text_to_xml" />
+      <item index="1" class="java.lang.String" itemvalue="Python.streusle_reader" />
+      <item index="2" class="java.lang.String" itemvalue="Python.watch_all_entities" />
+      <item index="3" class="java.lang.String" itemvalue="Python.extract_state_theme" />
+      <item index="4" class="java.lang.String" itemvalue="Python.collect_statistics" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.collect_statistics" />
+        <item index="1" class="java.lang.String" itemvalue="Python.text_to_xml" />
+        <item index="2" class="java.lang.String" itemvalue="Python.extract_state_theme" />
+        <item index="3" class="java.lang.String" itemvalue="Python.watch_all_entities" />
+        <item index="4" class="java.lang.String" itemvalue="Python.streusle_reader" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3abd0e4-ab21-41e4-81fc-bbcc38f18720" name="Default" comment="" />
+      <created>1486901291246</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1486901291246</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1542881236191</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1542881236191</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_ucca_participant - 2017.10.26 at 13h 07m 25s.xml">
+      <configuration name="Unittests in ucca_participant" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1920" height="981" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15104167" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.50277776" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32893288" sideWeight="0.49722221" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3395973" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="5" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/data/UCCA_wiki_sample/xmls/ucca_passage380.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="0" column="5785" lean-forward="false" selection-start-line="0" selection-start-column="5785" selection-end-line="0" selection-end-column="5785" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/UCCA_wiki_sample/xmls/ucca_passage140.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="0" column="33094" lean-forward="false" selection-start-line="0" selection-start-column="33094" selection-end-line="0" selection-end-column="33094" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/UCCA_wiki_sample/xmls/ucca_passage149.xml" />
+    <entry file="file://$PROJECT_DIR$/data/UCCA_wiki_sample/xmls/ucca_passage198.xml" />
+    <entry file="file://$PROJECT_DIR$/data/UCCA_wiki_sample/xmls/ucca_passage199.xml" />
+    <entry file="file://$PROJECT_DIR$/data/UCCA_wiki_sample/xmls/ucca_passage207.xml" />
+    <entry file="file://$PROJECT_DIR$/data/UCCA_wiki_sample/xmls/ucca_passage208.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="0" column="2644" lean-forward="false" selection-start-line="0" selection-start-column="2644" selection-end-line="0" selection-end-column="2644" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/UCCA_wiki_sample/xmls/ucca_passage214.xml" />
+    <entry file="file://$PROJECT_DIR$/data/UCCA_wiki_sample/xmls/ucca_passage215.xml" />
+    <entry file="file://$PROJECT_DIR$/data/UCCA_wiki_sample/xmls/ucca_passage539.xml" />
+    <entry file="file://$PROJECT_DIR$/data/UCCA_wiki_sample/xmls/ucca_passage197.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="0" column="9152" lean-forward="false" selection-start-line="0" selection-start-column="9152" selection-end-line="0" selection-end-column="9152" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/streusle_reader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="32" column="47" lean-forward="false" selection-start-line="32" selection-start-column="47" selection-end-line="32" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/watch_all_entities_backup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="56" column="19" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="56" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/UCCA_wiki_sample/xmls/ucca_passage28.xml" />
+    <entry file="file://$PROJECT_DIR$/data/UCCA_SNACS_wiki_sample/xmls/ucca_passage225.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="0" column="81932" lean-forward="false" selection-start-line="0" selection-start-column="81929" selection-end-line="0" selection-end-column="81932" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/UCCA_SNACS_wiki_sample/xmls/ucca_passage963.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="0" column="73689" lean-forward="false" selection-start-line="0" selection-start-column="73681" selection-end-line="0" selection-end-column="73689" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/UCCA_wiki_sample/xmls/ucca_passage588.xml" />
+    <entry file="file://$PROJECT_DIR$/data/UCCA_wiki_sample/xmls/ucca_passage697.xml" />
+    <entry file="file://$PROJECT_DIR$/data/UCCA_SNACS_wiki_sample/xmls/ucca_passage143.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="0" column="44625" lean-forward="false" selection-start-line="0" selection-start-column="44625" selection-end-line="0" selection-end-column="44625" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/UCCA_SNACS_wiki_sample/xmls/ucca_passage144.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="47974" lean-forward="false" selection-start-line="0" selection-start-column="47966" selection-end-line="0" selection-end-column="47974" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/UCCA_SNACS_wiki_sample/xmls/ucca_passage142.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="0" column="67309" lean-forward="false" selection-start-line="0" selection-start-column="67301" selection-end-line="0" selection-end-column="67309" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/UCCA_SNACS_wiki_sample/xmls/ucca_passage194.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="23089" lean-forward="false" selection-start-line="0" selection-start-column="23089" selection-end-line="0" selection-end-column="23089" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/UCCA_SNACS_wiki_sample/xmls/ucca_passage958.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="0" column="53882" lean-forward="false" selection-start-line="0" selection-start-column="53882" selection-end-line="0" selection-end-column="53882" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/UCCA_SNACS_wiki_sample/xmls/ucca_passage140.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="0" column="47414" lean-forward="false" selection-start-line="0" selection-start-column="47411" selection-end-line="0" selection-end-column="47414" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/UCCA_SNACS_wiki_sample/xmls/ucca_passage552.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="0" column="93324" lean-forward="false" selection-start-line="0" selection-start-column="93317" selection-end-line="0" selection-end-column="93324" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/UCCA_SNACS_wiki_sample/xmls/ucca_passage141.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="79200" lean-forward="false" selection-start-line="0" selection-start-column="79200" selection-end-line="0" selection-end-column="79200" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/UCCA_SNACS_wiki_sample/xmls/ucca_passage555.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="0" column="31778" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="121746" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/UCCA_SNACS_wiki_sample/xmls/ucca_passage554.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="0" column="2130" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="156937" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/UCCA_SNACS_wiki_sample/xmls/ucca_passage553.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="0" column="2038" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="117417" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extract_all_entities.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="548">
+          <caret line="105" column="14" lean-forward="false" selection-start-line="105" selection-start-column="14" selection-end-line="105" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/UCCA_wiki_sample/xmls/ucca_passage20.xml" />
+    <entry file="file://$PROJECT_DIR$/253.txt" />
+    <entry file="file://$PROJECT_DIR$/data/UCCA_SNACS_wiki_sample/annotated_data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="40534" column="36" lean-forward="false" selection-start-line="40534" selection-start-column="36" selection-end-line="40534" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/UCCA_SNACS_wiki_sample/xmls/ucca_passage546.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/UCCA_SNACS_wiki_sample/xmls/ucca_passage63.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="0" column="42177" lean-forward="false" selection-start-line="0" selection-start-column="42174" selection-end-line="0" selection-end-column="42177" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/UCCA_SNACS_wiki_sample_v1/xmls/ucca_passage28.xml" />
+    <entry file="file://$PROJECT_DIR$/data/UCCA_SNACS_wiki_sample_v1/xmls/ucca_passage104.xml" />
+    <entry file="file://$PROJECT_DIR$/data/UCCA_wiki_sample/annotated_data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="41" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/UCCA_SNACS_wiki_sample/xmls/ucca_passage632.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="0" column="56838" lean-forward="false" selection-start-line="0" selection-start-column="56833" selection-end-line="0" selection-end-column="56838" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1057">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/untitled/lib/python3.6/xml/etree/ElementTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="585" column="0" lean-forward="false" selection-start-line="585" selection-start-column="0" selection-end-line="585" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extract_state_theme.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="89" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/UCCA_SNACS_wiki_sample/xmls/ucca_passage806.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-790">
+          <caret line="0" column="86766" lean-forward="false" selection-start-line="0" selection-start-column="86761" selection-end-line="0" selection-end-column="86766" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/UCCA_SNACS_wiki_sample/xmls/ucca_passage590.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="0" column="80938" lean-forward="true" selection-start-line="0" selection-start-column="80938" selection-end-line="0" selection-end-column="80965" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/UCCA_SNACS_wiki_sample/xmls/ucca_passage618.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="0" column="177614" lean-forward="true" selection-start-line="0" selection-start-column="177614" selection-end-line="0" selection-end-column="177614" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/watch_all_entities.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1935">
+          <caret line="129" column="4" lean-forward="false" selection-start-line="129" selection-start-column="4" selection-end-line="129" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16050">
+          <caret line="1070" column="25" lean-forward="false" selection-start-line="1070" selection-start-column="25" selection-end-line="1070" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text_to_xml.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="28" column="39" lean-forward="false" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/passages.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/collect_statistics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3435">
+          <caret line="232" column="46" lean-forward="false" selection-start-line="232" selection-start-column="46" selection-end-line="232" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/UCCA_SNACS_wiki_sample/annotated_data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="46179" column="42" lean-forward="true" selection-start-line="46179" selection-start-column="42" selection-end-line="46179" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
