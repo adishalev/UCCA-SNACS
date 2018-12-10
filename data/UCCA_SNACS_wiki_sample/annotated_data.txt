@@ -4359,7 +4359,7 @@ paragraph #2: controlled , type: C id: 1.496
 paragraph #2: . , type: U id: 1.497
 paragraph #2: If , type: L id: 1.498
 paragraph #2: we 're not being controlled , type: H id: 1.499
-paragraph #2: we , type: A id: 1.500 Experiencer
+paragraph #2: we , type: A id: 1.500 Theme
 paragraph #2: 're being controlled , type: S id: 1.501
 paragraph #2: 're , type: F id: 1.502
 paragraph #2: being , type: F id: 1.504
@@ -9773,9 +9773,9 @@ paragraph #1: , , type: U id: 1.10
 paragraph #1: those those closest to Warner , type: A id: 1.11 Experiencer
 paragraph #1: those , type: C id: 1.12
 paragraph #1: those closest to Warner , type: E id: 1.13
-paragraph #1: those , type: A id: 1.12 Co-Theme
+paragraph #1: those , type: A id: 1.12 SocialRel
 paragraph #1: closest , type: S id: 1.14
-paragraph #1: to Warner , type: A id: 1.15 Co-Theme
+paragraph #1: to Warner , type: A id: 1.15 SocialRel
 paragraph #1: to , type: R id: 1.16
 paragraph #1: Warner , type: C id: 1.17
 paragraph #1: became aware , type: P id: 1.18
@@ -10951,7 +10951,7 @@ paragraph #6: Beatty , type: C id: 1.519
 paragraph #6: were unaffected , type: S id: 1.520
 paragraph #6: were , type: E id: 1.521
 paragraph #6: unaffected , type: C id: 1.522
-paragraph #6: by the flop , type: A id: 1.523 Stimulus
+paragraph #6: by the flop , type: A id: 1.523 Causer
 paragraph #6: by , type: R id: 1.525
 paragraph #6: the flop , type: P id: 1.526
 paragraph #6: the , type: E id: 1.527
@@ -11574,7 +11574,7 @@ paragraph #3: she , type: A id: 1.560 Experiencer
 paragraph #3: grew up , type: P id: 1.561
 paragraph #3: grew , type: C id: 1.562
 paragraph #3: up , type: E id: 1.563
-paragraph #3: Cherokee or maybe Creek Indian , type: A id: 1.564 SocialRel
+paragraph #3: Cherokee or maybe Creek Indian , type: A id: 1.564 Identity
 paragraph #3: Cherokee , type: C id: 1.565
 paragraph #3: or , type: N id: 1.566
 paragraph #3: maybe Creek Indian , type: C id: 1.567
@@ -16369,7 +16369,7 @@ paragraph #1: Lennon , type: A id: 1.3 Theme
 paragraph #1: was raised , type: P id: 1.4
 paragraph #1: was , type: F id: 1.5
 paragraph #1: raised , type: C id: 1.6
-paragraph #1: as an Anglican , type: A id: 1.7 SocialRel
+paragraph #1: as an Anglican , type: A id: 1.7 Identity
 paragraph #1: as , type: R id: 1.8
 paragraph #1: an , type: E id: 1.9
 paragraph #1: Anglican , type: C id: 1.10
@@ -18898,10 +18898,10 @@ paragraph #1: 's , type: R id: 1.156
 paragraph #1: success , type: P id: 1.157
 paragraph #1: began , type: P id: 1.158
 paragraph #1: his long association with Burton , type: A id: 1.159 Theme
-paragraph #1: his , type: A id: 1.160 Co-Agent
+paragraph #1: his , type: A id: 1.160 SocialRel
 paragraph #1: long , type: D id: 1.161
 paragraph #1: association , type: S id: 1.162
-paragraph #1: with Burton , type: A id: 1.163 Co-Agent
+paragraph #1: with Burton , type: A id: 1.163 SocialRel
 paragraph #1: with , type: R id: 1.164
 paragraph #1: Burton , type: C id: 1.165
 paragraph #1: . , type: U id: 1.166
@@ -19457,7 +19457,7 @@ paragraph #3: include , type: P id: 1.203
 paragraph #3: a Native American in profile and a ribbon reading " Wino Forever " ( originally " " Winona Winona Forever Forever " " , altered after his breakup with Winona Ryder ) on his right biceps , " " Lily Lily - - Rose Rose " " ( his daughter 's name ) over his heart , " " Betty Betty Sue Sue " " ( his mother 's name ) on his left biceps , and a sparrow sparrow flying over water with the word " " Jack Jack " " ( his son 's name ; the the sparrow sparrow is is flying flying towards him rather than away from him as it is in Pirates of the Caribbean ) on his right forearm , type: A id: 1.204 PartPortion
 paragraph #3: a Native American in profile and a ribbon reading " Wino Forever " ( originally " " Winona Winona Forever Forever " " , altered after his breakup with Winona Ryder ) on his right biceps , , type: C id: 1.205
 paragraph #3: a Native American in profile and a ribbon reading " Wino Forever " ( originally " " Winona Winona Forever Forever " " , altered after his breakup with Winona Ryder ) , type: C id: 1.206
-paragraph #3: a Native American in profile and a ribbon , type: A id: 1.207 Causer
+paragraph #3: a Native American in profile and a ribbon , type: A id: 1.207 Locus
 paragraph #3: a Native American in profile , type: C id: 1.208
 paragraph #3: a , type: E id: 1.209
 paragraph #3: Native American , type: C id: 1.210
@@ -28377,7 +28377,7 @@ paragraph #3: serious , type: E id: 1.971
 paragraph #3: threat , type: C id: 1.972
 paragraph #3: ; , type: U id: 1.973
 paragraph #3: one example of the released material was a report that two prominent British leftists had hoped Lennon would finance a left - wing bookshop and reading room , type: H id: 1.974
-paragraph #3: one example of the released material , type: A id: 1.975 Co-Theme
+paragraph #3: one example of the released material , type: A id: 1.975 Identity
 paragraph #3: one example of , type: E id: 1.976
 paragraph #3: one , type: E id: 1.977
 paragraph #3: example , type: C id: 1.978
@@ -28387,7 +28387,7 @@ paragraph #3: the , type: E id: 1.981
 paragraph #3: released , type: E id: 1.982
 paragraph #3: material , type: C id: 1.983
 paragraph #3: was , type: S id: 1.984
-paragraph #3: a report that two prominent British leftists had hoped Lennon would finance a left - wing bookshop and reading room , type: A id: 1.985 Co-Theme
+paragraph #3: a report that two prominent British leftists had hoped Lennon would finance a left - wing bookshop and reading room , type: A id: 1.985 Identity
 paragraph #3: a report , type: C id: 1.986
 paragraph #3: a , type: E id: 1.987
 paragraph #3: report , type: C id: 1.988
@@ -28526,7 +28526,7 @@ paragraph #1: until , type: R id: 1.90
 paragraph #1: 1950 , type: C id: 1.91
 paragraph #1: . , type: U id: 1.92
 paragraph #1: Her only appearance in 1943 was a cameo in the morale - building wartime film Stage Door Canteen , playing herself , type: H id: 1.93
-paragraph #1: Her only appearance in 1943 , type: A id: 1.94 Co-Theme
+paragraph #1: Her only appearance in 1943 , type: A id: 1.94 Identity
 paragraph #1: Her , type: A id: 1.95 Agent
 paragraph #1: only , type: D id: 1.96
 paragraph #1: appearance , type: P id: 1.97
@@ -28534,7 +28534,7 @@ paragraph #1: in 1943 , type: D id: 1.98
 paragraph #1: in , type: R id: 1.99
 paragraph #1: 1943 , type: C id: 1.100
 paragraph #1: was , type: S id: 1.101
-paragraph #1: a cameo in the morale - building wartime film Stage Door Canteen , playing herself , type: A id: 1.102 Co-Theme
+paragraph #1: a cameo in the morale - building wartime film Stage Door Canteen , playing herself , type: A id: 1.102 Identity
 paragraph #1: a cameo in the morale - building wartime film Stage Door Canteen , type: A id: 1.103 Circumstance
 paragraph #1: a cameo in , type: E id: 1.104
 paragraph #1: a , type: E id: 1.105
@@ -32165,7 +32165,7 @@ paragraph #3: relieved , type: C id: 1.383
 paragraph #3: " , type: U id: 1.381
 paragraph #3: greatly , type: D id: 1.382
 paragraph #3: " , type: U id: 1.384
-paragraph #3: at the diagnosis , type: A id: 1.385 Causer
+paragraph #3: at the diagnosis , type: A id: 1.385 Stimulus
 paragraph #3: at , type: R id: 1.386
 paragraph #3: the , type: E id: 1.387
 paragraph #3: diagnosis , type: C id: 1.388
@@ -32556,7 +32556,7 @@ paragraph #3: tattooed , type: P id: 1.166
 paragraph #3: " WINONA FOREVER " , type: A id: 1.167 Topic
 paragraph #3: " , type: U id: 1.168
 paragraph #3: " , type: U id: 1.169
-paragraph #3: on his right arm , type: A id: 1.170 SocialRel
+paragraph #3: on his right arm , type: A id: 1.170 Locus
 paragraph #3: on , type: R id: 1.171
 paragraph #3: his , type: E id: 1.172
 paragraph #3: right arm , type: C id: 1.173
@@ -33100,7 +33100,7 @@ paragraph #1: Depp , type: A id: 1.24 Agent
 paragraph #1: began playing , type: P id: 1.25
 paragraph #1: began , type: E id: 1.26
 paragraph #1: playing , type: C id: 1.27
-paragraph #1: in various garage bands , type: A id: 1.28 SocialRel
+paragraph #1: in various garage bands , type: A id: 1.28 OrgRole
 paragraph #1: in , type: R id: 1.29
 paragraph #1: various , type: E id: 1.30
 paragraph #1: garage bands , type: C id: 1.31
@@ -37020,7 +37020,7 @@ paragraph #1: April , type: E id: 1.61
 paragraph #1: 1970 , type: C id: 1.62
 paragraph #1: . , type: U id: 1.63
 paragraph #1: Lennon 's reaction was , " Jesus Christ ! He gets all the credit for it ! , type: H id: 1.64
-paragraph #1: Lennon 's reaction , type: A id: 1.65 Originator
+paragraph #1: Lennon 's reaction , type: A id: 1.65 Identity
 paragraph #1: Lennon 's , type: E id: 1.66
 paragraph #1: Lennon , type: C id: 1.67
 paragraph #1: 's , type: R id: 1.68
@@ -37028,7 +37028,7 @@ paragraph #1: reaction , type: C id: 1.69
 paragraph #1: was , type: S id: 1.70
 paragraph #1: , , type: U id: 1.71
 paragraph #1: " , type: U id: 1.72
-paragraph #1: Jesus Christ ! He gets all the credit for it ! , type: A id: 1.73 Topic
+paragraph #1: Jesus Christ ! He gets all the credit for it ! , type: A id: 1.73 Identity
 paragraph #1: Jesus Christ , type: H id: 1.74
 paragraph #1: ! , type: U id: 1.75
 paragraph #1: He gets all the credit for it , type: H id: 1.76
@@ -37175,7 +37175,7 @@ paragraph #1: fed up , type: C id: 1.210
 paragraph #1: he , Harrison , and Starr " with being sidemen for Paul , type: A id: 1.211 Stimulus
 paragraph #1: with , type: R id: 1.212
 paragraph #1: he , Harrison , and Starr " being sidemen for Paul , type: C id: 1.213
-paragraph #1: he , Harrison , and Starr " , type: A id: 1.200 Agent
+paragraph #1: he , Harrison , and Starr " , type: A id: 1.200 SocialRel
 paragraph #1: he , type: C id: 1.201
 paragraph #1: , , type: U id: 1.202
 paragraph #1: Harrison , type: C id: 1.203
@@ -37186,7 +37186,7 @@ paragraph #1: " , type: U id: 1.207
 paragraph #1: being sidemen , type: S id: 1.214
 paragraph #1: being , type: F id: 1.215
 paragraph #1: sidemen , type: C id: 1.216
-paragraph #1: for Paul , type: A id: 1.217 Beneficiary
+paragraph #1: for Paul , type: A id: 1.217 SocialRel
 paragraph #1: for , type: R id: 1.218
 paragraph #1: Paul , type: C id: 1.219
 paragraph #1: ... , type: U id: 1.220
@@ -39963,7 +39963,7 @@ paragraph #1: a sponsorship , type: D id: 1.128
 paragraph #1: a , type: E id: 1.129
 paragraph #1: sponsorship , type: C id: 1.130
 paragraph #1: deal , type: P id: 1.131
-paragraph #1: with Mitsubishi Motors , type: A id: 1.132 SocialRel
+paragraph #1: with Mitsubishi Motors , type: A id: 1.132 OrgRole
 paragraph #1: with , type: R id: 1.133
 paragraph #1: Mitsubishi Motors , type: C id: 1.134
 paragraph #1: . , type: U id: 1.135
@@ -56681,7 +56681,7 @@ paragraph #3: Johnson described Bird as a " friend forever , type: H id: 1.432
 paragraph #3: Johnson , type: A id: 1.417 Originator
 paragraph #3: described , type: P id: 1.433
 paragraph #3: Bird , type: A id: 1.434 Topic
-paragraph #3: as a " friend forever , type: A id: 1.435 SocialRel
+paragraph #3: as a " friend forever , type: A id: 1.435 Characteristic
 paragraph #3: as , type: R id: 1.436
 paragraph #3: a , type: E id: 1.437
 paragraph #3: " , type: U id: 1.438

@@ -225,7 +225,7 @@ def get_scenes_with_relation(type, participants, directory):
 
 
 def print_scenes_with_relation(type, participants, size=-1):
-    directory = r'data/UCCA_SNACS_wiki_sample_v1/xmls'
+    directory = r'data/UCCA_SNACS_wiki_sample/xmls'
     passed_cond_scenes = get_scenes_with_relation(type, participants, directory)
     count = 0
     for xml, (xml_tree, scenes_list) in passed_cond_scenes.items():
@@ -250,11 +250,11 @@ if __name__ == '__main__':
     #print_relations_distribution()
     #print_couples_in_relations_distribution()
     #print_scenes_with_relation("P", ["Experiencer"], -1)
-    print_scenes_with_relation("P", ["OrgRole"], -1)
-    #for category in Configuration:
+    print_scenes_with_relation("S", ["OrgRole"], -1)
+    #for category in Participant:
     #    print("---------------------- " + category + " ----------------------")
     #    print()
-    #    print_scenes_with_relation("P", [category], 10)
+    #    print_scenes_with_relation("S", [category], 10)
     #    print()
 
 

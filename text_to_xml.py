@@ -1,5 +1,7 @@
 import xml.etree.ElementTree as ET
 import re
+from statistics import SNACS as categories
+
 
 def text_to_lists(filename):
     xmls = {}
@@ -12,52 +14,24 @@ def text_to_lists(filename):
                 xmls[curr_key] = []
             elif line.startswith("paragraph #"):
                 xmls[curr_key].append(line.strip())
-    print(len(xmls))
     return xmls
 
 
-categories = ["Agent", "Theme", "Causer", "Experiencer", "Topic", "Originator", "Possessor", "Possession",
-              "Stimulus", "Instrument", "Circumstance", "Manner", "Explanation", "Means", "Gestalt", "Characteristic",
-              "ComparisonRef", "InsteadOf", "Goal", "Locus", "Whole", "PartPortion", "Beneficiary", "Purpose",
-              "Cost", "Source", "Recipient", "Co-Theme", "Co-Agent", "OrgRole", "SocialRel", "Identity",
-              "Approximator", "Path", "Direction", "Accompanier", "Time", "StartTime", "EndTime",
-              "Frequency", "Extent", "Duration", "Stuff", "Quantity", "NAP", "A"]
-
-if __name__ == '__main__':
-    import os
-    from watch_all_entities import get_one_xml
-    from collections import defaultdict
-
-    in_directory = r'data/UCCA_SNACS_wiki_sample_v1/xmls'
-    out_directory = r'data/UCCA_SNACS_wiki_sample_v1/xmls'
-    xmls = text_to_lists("data/UCCA_SNACS_wiki_sample_v1/annotated_data.txt")
-    total_participants = 0
-
+def lists_to_xmls(xmls_lists):
     categories_histogram = defaultdict(int)
-    for x in xmls.keys():
+    for x in xmls_lists.keys():
         passage_participants = 0
         xml_name = os.path.join(in_directory, x)
         xml_tree = ET.parse(xml_name)
         original_xml = get_one_xml(xml_tree, xml_tree, "")
-        participants = []
-        for original, annotated in zip(original_xml, xmls[x]):
+        for original, annotated in zip(original_xml, xmls_lists[x]):
             annotation = annotated.strip().split(" ")[-1]
             type = ""
             m = re.search('type: (.+?) id:', original[0])
             if m:
                 type = m.group(1)
             is_participant = type in categories
-            if is_participant and not annotation:
-                print "no annotation"
-                print original[0]
-                print annotated
-                print annotation
             if is_participant and annotation:
-                if annotation not in categories:
-                    print "not in categories"
-                    print original[0]
-                    print annotated
-                    print annotation
                 passage_participants += 1
                 categories_histogram[annotation] += 1
                 from_id = str(original[1]).strip()
@@ -68,16 +42,19 @@ if __name__ == '__main__':
                     e = node.find(".//edge[@toID='"+to_id+"']")
                     e.attrib['type'] = annotation
                     has_edge = True
-                if not has_edge:
-                    print original[0]
-                    print annotation
-                    print annotated
         xml_name = os.path.join(out_directory, x)
         xml_tree.write(open(xml_name, 'wb'))
-        #print passage_participants
-        total_participants += passage_participants
-    print total_participants
-    for category in categories_histogram:
-        print category + ": " + str(categories_histogram[category])
+
+
+if __name__ == '__main__':
+    import os
+    from watch_all_entities import get_one_xml
+    from collections import defaultdict
+
+    data_dir = r'data/UCCA_SNACS_wiki_sample'
+    in_directory = out_directory = os.path.join(data_dir, "xmls")
+    text_file = os.path.join(data_dir, "annotated_data.txt")
+    xmls_lists = text_to_lists(text_file)
+    lists_to_xmls(xmls_lists)
 
 

@@ -1,4 +1,5 @@
 import xml.etree.ElementTree as ET
+import os
 
 
 def extract_text(xml_tree):
@@ -157,7 +158,6 @@ def get_one_xml(xml_tree, start_node, substr, type='none'):
 
 
 def get_all_xmls(xmls_dict):
-    import os
     directory = r'xmls'
     res = {}
     for filename in xmls_dict.keys():
@@ -171,7 +171,6 @@ def get_all_xmls(xmls_dict):
 
 
 if __name__ == '__main__':
-    import os
     directory = r'xmls'
     for filename in os.listdir(directory):
         if filename.endswith(".xml"):
